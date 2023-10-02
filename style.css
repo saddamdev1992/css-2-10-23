@@ -1,0 +1,28 @@
+div {
+  background-color: aqua;
+  height: 400px;
+  width: 400px;
+}
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px red;
+  font-family: sans-serif;
+}
+.p3 {
+  text-decoration: underline;
+  line-height: 0;
+}
+.p2 {
+  letter-spacing: 5px;
+  line-height: 1;
+}
+.p4 {
+  white-space: pre;
+  line-height: 0;
+}
+.p1 {
+  line-height: 0;
+  font-size: 30px;
+  font-family: fantasy;
+  font-style: italic;
+}
